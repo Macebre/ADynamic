@@ -1,0 +1,73 @@
+
+@font-face {
+	font-family: 'Geometria-light';
+	src: url(9c8c599ab91d705ed64015e9309aa450.eot);
+	src: local('Geometria Light'), local('Geometria-Light'),
+		url(9c8c599ab91d705ed64015e9309aa450.eot?#iefix) format('embedded-opentype'),
+		url(5c39715144135bb45606037a2cec207a.woff) format('woff'),
+		url(f23fd3be866de27b1c6d95ad209493b8.ttf) format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+/*
+@font-face {
+	font-family: 'Geometria';
+	src: url('Geometria.eot');
+	src: local('Geometria'),
+		url('Geometria.eot?#iefix') format('embedded-opentype'),
+		url('Geometria.woff') format('woff'),
+		url('Geometria.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Geometria-bold';
+	src: url('Geometria-Bold.eot');
+	src: local('Geometria Bold'), local('Geometria-Bold'),
+		url('Geometria-Bold.eot?#iefix') format('embedded-opentype'),
+		url('Geometria-Bold.woff') format('woff'),
+		url('Geometria-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Geometria-800';
+	src: url('Geometria-ExtraBold.eot');
+	src: local('Geometria ExtraBold'), local('Geometria-ExtraBold'),
+		url('Geometria-ExtraBold.eot?#iefix') format('embedded-opentype'),
+		url('Geometria-ExtraBold.woff') format('woff'),
+		url('Geometria-ExtraBold.ttf') format('truetype');
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Geometria-heavy';
+	src: url('Geometria-Heavy.eot');
+	src: local('Geometria Heavy'), local('Geometria-Heavy'),
+		url('Geometria-Heavy.eot?#iefix') format('embedded-opentype'),
+		url('Geometria-Heavy.woff') format('woff'),
+		url('Geometria-Heavy.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+} */
+
+
+
+
+.container {
+  font-family: "Geometria-light", sans-serif;
+  background: #fafafc;
+  margin: 0 auto;
+  width: 95%;
+}
+
+.box {
+  padding: 1rem;
+  border-radius: 5px;
+  background: #000;
+  color: #fff;
+  border: 3px solid green;
+}
