@@ -1,1 +1,1 @@
-# ADynamic
+# Webpack template
